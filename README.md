@@ -1,1 +1,1 @@
-# STM-32-projects
+# STM-32-L4R5ZI series 
